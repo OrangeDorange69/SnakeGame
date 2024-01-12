@@ -1,4 +1,4 @@
-#snakegame
+Snakegame
 
 a random proj when im bored 
 
